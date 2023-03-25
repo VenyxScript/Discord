@@ -1,5 +1,5 @@
 -- (Discord - Impossible Glass Bridge Obby)
-local DiscordLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/VenyxScript/Discord/main/UI/main")()
+local DiscordLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/VenyxScript/Discord/main/UI/main"))()
 
 local Window = DiscordLib:Window("Discord - Impossible Glass Bridge Obby (Squid Game)")
 
